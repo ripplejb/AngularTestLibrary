@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of my-lib
+ */
+
+export * from './lib/my-lib.module';
+
+// Components
+export * from './lib/clock/clock.component';
